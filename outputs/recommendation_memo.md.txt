@@ -1,0 +1,52 @@
+# Recommendation Memo
+
+## Executive Summary
+
+The objective of this experiment was to evaluate whether the new onboarding campaign (Treatment group) performs better than the existing onboarding experience (Control group). The analysis focused on Paid Conversion Rate as the North Star Metric while also reviewing important guardrail metrics.
+
+## North Star Metric
+
+Paid Conversion Rate was selected as the primary success metric because it directly measures the percentage of users who become paying customers after onboarding.
+
+## KPI Tree Summary
+
+The KPI Tree identifies Paid Conversion Rate as the North Star Metric. The primary drivers are Landing Page Visit Rate, Trial Start Rate, and Onboarding Completion Rate. Guardrail metrics include Refund Rate, Support Ticket Rate, and Average Days to Convert.
+
+## Experiment Results
+
+The Control and Treatment groups were compared using key business metrics including user count, onboarding completion, paid conversion, revenue, engagement score, and support-related metrics.
+
+## Hypothesis Test Summary
+
+The hypothesis test compared the Paid Conversion Rate between the Control and Treatment groups to determine whether the new onboarding experience improves business performance.
+
+## Guardrail Metrics
+
+The analysis considered:
+
+* Refund Rate
+* Support Ticket Rate
+* Average Days to Convert
+
+These metrics help ensure that improving conversions does not negatively affect customer experience.
+
+## Segment Insights
+
+The experiment results can also be reviewed by Region, Device Type, Traffic Source, and Plan Type to identify whether certain customer segments respond better to the new onboarding experience.
+
+## Final Recommendation
+
+Based on the experiment results, the Treatment experience demonstrates potential improvement in business performance. If the improvement in Paid Conversion Rate is supported by acceptable guardrail metrics, the recommendation is to launch the new onboarding experience. If risks remain, continue testing before a full rollout.
+
+## Risks and Limitations
+
+* Historical experiment only
+* Limited business variables
+* External market conditions not included
+* Results indicate association within the experiment period only
+
+## Next Steps
+
+* Continue monitoring conversion performance.
+* Track guardrail metrics after launch.
+* Perform additional experiments for specific customer segments.
