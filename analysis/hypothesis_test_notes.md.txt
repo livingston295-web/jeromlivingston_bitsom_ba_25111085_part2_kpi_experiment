@@ -1,0 +1,37 @@
+# Hypothesis Test Notes
+
+## Business Objective
+
+Determine whether the new onboarding campaign (Treatment group) improves the Paid Conversion Rate compared to the existing onboarding experience (Control group).
+
+## Null Hypothesis (H0)
+
+There is no significant difference in Paid Conversion Rate between the Control group and the Treatment group.
+
+## Alternative Hypothesis (H1)
+
+The Treatment group has a higher Paid Conversion Rate than the Control group.
+
+## Test Type
+
+One-tailed comparison of Control vs Treatment.
+
+## Significance Level
+
+5% (0.05)
+
+## Primary Metric
+
+Paid Conversion Rate
+
+## Decision Rule
+
+If the Treatment group's Paid Conversion Rate is higher than the Control group's Paid Conversion Rate and the statistical evidence supports the improvement, the campaign can be considered for launch.
+
+## Business Interpretation
+
+The experiment compares the existing onboarding experience with the new onboarding campaign to determine whether the new experience increases user conversion while maintaining acceptable business performance.
+
+## Conclusion
+
+The final recommendation should consider both the Paid Conversion Rate and the guardrail metrics such as Refund Rate, Support Ticket Rate, and Average Days to Convert before making a launch decision.
